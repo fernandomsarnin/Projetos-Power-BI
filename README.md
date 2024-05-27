@@ -1,6 +1,6 @@
 # Projetos-Power-BI
  
-Neste Dashboard, criado no Power BI, pegamos uma tabela fictícia de Vendas criada, a princípio, no Excel; fizemos alguns tratamentamos no Power Query e finalizamos no Power BI.
+Neste Dashboard, criado no Power BI, pegamos uma tabela fictícia de Vendas criada, a princípio, no Excel, fizemos alguns tratamentamos no Power Query e finalizamos no Power BI.
 O foco deste relatório foi apresentar os resultados de vendas ao longo de um ano, destacando o resultado individual de cada vendedor, quantidade total vendida e faturamento total.
 Nele criamos um Ranking de Vendas, onde colocamos o campeão de Vendas do exercício e também os resultados trimestrais.
 
