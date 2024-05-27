@@ -5,7 +5,7 @@ O foco deste relatório foi apresentar os resultados de vendas ao longo de um an
 Nele criamos um Ranking de Vendas, onde colocamos o campeão de Vendas do exercício e também os resultados trimestrais.
 
 Esses são os meus primeiros passos em Análise de Dados, área na qual tenho estudado para me aperfeiçoar. 
-Atualmente, estudo de Power BI, SQL Server, Excel e Python. Com foco em Análise de Dados.
+Atualmente, estudo de Power BI, SQL Server, Excel e Python com foco em Análise de Dados.
 
 Tenho estudado Lógica da Programação, Estatística e a Análise de Dados. Sempre focando nos pontos mais relevantes de análise.
 
